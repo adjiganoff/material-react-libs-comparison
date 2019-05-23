@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/material-react-libs-comparison/static/css/main.008c7e05.chunk.css",
+    "main.js": "/material-react-libs-comparison/static/js/main.f80b5651.chunk.js",
+    "main.js.map": "/material-react-libs-comparison/static/js/main.f80b5651.chunk.js.map",
+    "runtime~main.js": "/material-react-libs-comparison/static/js/runtime~main.838c76c0.js",
+    "runtime~main.js.map": "/material-react-libs-comparison/static/js/runtime~main.838c76c0.js.map",
+    "static/js/2.b41502e9.chunk.js": "/material-react-libs-comparison/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/material-react-libs-comparison/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/material-react-libs-comparison/index.html",
+    "precache-manifest.1466ec6d990afb423ceb18dbbec3c91a.js": "/material-react-libs-comparison/precache-manifest.1466ec6d990afb423ceb18dbbec3c91a.js",
+    "service-worker.js": "/material-react-libs-comparison/service-worker.js",
+    "static/css/main.008c7e05.chunk.css.map": "/material-react-libs-comparison/static/css/main.008c7e05.chunk.css.map",
+    "static/media/logo.svg": "/material-react-libs-comparison/static/media/logo.5d5d9eef.svg"
+  }
+}
